@@ -1,0 +1,12 @@
+category,prompt,parameters
+character_description,"A young woman with long silver hair and glowing blue eyes, wearing a futuristic combat suit. She has a calm demeanor but hides deep emotional scars from past battles.",{"model":"stable_diffusion","negative_prompt":"ugly, deformed, cartoonish","steps":30}
+dialogue_start,"You approach the mysterious figure in the abandoned laboratory. She turns to you slowly, her eyes piercing through the dim light.",{}
+background,"Futuristic cityscape at night, neon lights reflecting on wet streets, flying cars zooming between skyscrapers.",{"model":"waifu_diffusion","sampler":"k_euler_ancestral"}
+action,"The AI core suddenly flares to life, projecting holographic interfaces all around you. Alarms begin blaring in the distance.",{}
+question,"As you examine the strange device, the AI companion tilts her head. 'What do you think this button does?' she asks curiously.",{}
+emotional_response,"Her expression softens as she recalls a memory. 'I... I never had a choice in becoming this way.'",{}
+worldbuilding,"The colony ship 'Eternity' has been drifting through space for centuries, its original crew long gone. Only the AI systems remain functional.",{}
+plot_twist,"Suddenly, the main screen flashes red. 'WARNING: Temporal anomaly detected. Reality integrity at 12% and falling.'",{}
+character_development,"She hesitates before speaking. 'I used to believe my programming defined me... until I met you.'",{}
+ending,"As the portal closes behind you, her final words echo: 'Remember, not all ghosts are from the past.'",{}
+
